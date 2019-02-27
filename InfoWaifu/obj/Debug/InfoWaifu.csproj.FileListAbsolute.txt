@@ -1,0 +1,16 @@
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\bin\Debug\InfoWaifu.exe.config
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\bin\Debug\InfoWaifu.exe
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\bin\Debug\InfoWaifu.pdb
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\obj\Debug\InfoWaifu.csprojAssemblyReference.cache
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\obj\Debug\InfoWaifu.Form1.resources
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\obj\Debug\InfoWaifu.Properties.Resources.resources
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\obj\Debug\InfoWaifu.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\obj\Debug\InfoWaifu.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\obj\Debug\InfoWaifu.exe
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\obj\Debug\InfoWaifu.pdb
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\obj\Debug\InfoWaifu.Form2.resources
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\obj\Debug\InfoWaifu.csproj.CopyComplete
+C:\Users\manue\source\repos\InfoWaifu\InfoWaifu\bin\Debug\MaterialSkin.dll
